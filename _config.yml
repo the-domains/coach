@@ -1,7 +1,7 @@
 name: Coach
 favicon: null
-layout_spectrum: 0.9369775429368019
-typography_spectrum: 0.017526278737932444
+layout_spectrum: 0.89024
+typography_spectrum: 0.63189
 title: 'Coaching '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.9328003411646932
-  lightness: 0.10557125578634441
+    - '#ffffff'
+    - '#f05b2b'
+    - '#f58028'
+    - '#fac6ad'
+    - '#feebe1'
+  brandStrength: 0.75
+  lightness: 0.25
   saturation: 0.11792729748412967
-  rhythmicContrast: 0.5013585442211479
+  rhythmicContrast: 1
 purpose: []
