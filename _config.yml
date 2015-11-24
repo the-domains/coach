@@ -1,6 +1,6 @@
 name: Coach
 favicon: null
-layout_spectrum: 0.89024
+layout_spectrum: 0
 typography_spectrum: 0.63189
 title: 'Coaching '
 cta:
@@ -23,7 +23,7 @@ color:
     - '#fac6ad'
     - '#feebe1'
   brandStrength: 0.75
-  lightness: 0.4375
-  saturation: 0.5625
+  lightness: 0.75
+  saturation: 0.9375
   rhythmicContrast: 1
 purpose: []
